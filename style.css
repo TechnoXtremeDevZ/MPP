@@ -1,0 +1,39 @@
+﻿body {
+
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#minecraft {
+    height: 300px;
+    width: 250px;
+}
+
+#home {
+    background: linear-gradient(#00ff21 0%,#00ff90 100%);
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+    display: table;
+}
+
+#why {
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+    margin: 8px auto;
+}
+
+div {
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+}
+
+#line {
+    height: 10px;
+    background-color: #00ff90;
+    width: 70px;
+    left: 540px;
+}
+}
