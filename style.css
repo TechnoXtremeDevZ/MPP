@@ -1,12 +1,12 @@
-﻿body {
+body {
 
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #minecraft {
-    height: 300px;
-    width: 250px;
+    height: 375px;
+    width: 275px;
 }
 
 #home {
@@ -36,4 +36,28 @@ div {
     width: 70px;
     left: 540px;
 }
+#bar {
+    list-style:none;
+    background-color:#00ff21;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    margin: 0px;
 }
+.menu {
+    float: left;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+    .menu:hover {
+        background: linear-gradient(#00ffff 0%,#0094ff 100%);
+        font-size: 18px;
+    }
+    #mcspan {
+        font-family:Georgia;
+        font-size:20px;    
+    }
