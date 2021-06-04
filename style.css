@@ -57,7 +57,10 @@ div {
         background: linear-gradient(#00ffff 0%,#0094ff 100%);
         font-size: 18px;
     }
-    #mcspan {
+#mcspan {
         font-family:Georgia;
         font-size:20px;    
-    }
+}
+li a {
+    scroll-behavior:smooth;
+}
