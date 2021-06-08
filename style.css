@@ -64,3 +64,11 @@ div {
 li a {
     scroll-behavior:smooth;
 }
+#mcimg1:hover {
+    width:200px;
+    height:200px;
+}
+#mcimg2:hover {
+    width:200px;
+    height:200px;
+}
