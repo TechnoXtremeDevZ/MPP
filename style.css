@@ -64,9 +64,17 @@ div {
 li a {
     scroll-behavior:smooth;
 }
+#mcimg1 {
+    width:150px;
+    height:150px;
+}
 #mcimg1:hover {
     width:200px;
     height:200px;
+}
+#mcimg2 {
+    width:150px;
+    height:150px;
 }
 #mcimg2:hover {
     width:200px;
