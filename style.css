@@ -1,7 +1,6 @@
-body {
-
+#container {
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Century Gothic';
 }
 
 #minecraft {
@@ -15,6 +14,7 @@ body {
     overflow: hidden;
     height: 100%;
     display: table;
+    font-family:'Century Gothic';
 }
 
 #why {
@@ -22,6 +22,7 @@ body {
     overflow: hidden;
     height: 100%;
     margin: 8px auto;
+    font-family:'Century Gothic';
 }
 
 div {
@@ -64,19 +65,10 @@ div {
 li a {
     scroll-behavior:smooth;
 }
-#mcimg1 {
-    width:150px;
-    height:150px;
+#recrocks {
+    font-family:Calibri;
 }
-#mcimg1:hover {
-    width:200px;
-    height:200px;
-}
-#mcimg2 {
-    width:150px;
-    height:150px;
-}
-#mcimg2:hover {
-    width:200px;
-    height:200px;
+#SS img {
+    width:800px;
+    height:400px;
 }
